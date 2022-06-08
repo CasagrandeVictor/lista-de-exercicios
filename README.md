@@ -1,3 +1,5 @@
 # lista-de-exercicios
 
-354 Victor
+Nome:Victor Casagrande Correa
+Turma: 354
+2022
