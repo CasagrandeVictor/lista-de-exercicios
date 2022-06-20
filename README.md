@@ -24,3 +24,6 @@ duas informações:
   d. (0 < 3) && (8 < 9)
   e. ((i++) > i)
   f. ((10 * 90 / 50 – 2) == 16
+  
+5. Escreva um programa que imprima na tela a soma dos números ímpares entre 0 e 30 e a
+multiplicação dos números pares entre 0 e 30.
