@@ -10,17 +10,7 @@ public class exer7m {
     hora = input.nextDouble();
     total = hora * valorhora;
     System.out.println("Seu Salário de acordo com as horas :R$"+total);
-
-
-
-
-
     
     
     }
-
-
-
-
-
 }
