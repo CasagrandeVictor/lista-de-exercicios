@@ -44,12 +44,12 @@ seria o comando para converter 1000 libras para quilo)
     
 10. Calcule o IMC (imc = peso/altura²)
 menor que 18.5 = Peso abaixo do normal
-entre 18.5 e 24.4 = Peso ideal
-entre 24.5 e 29.9 = Pré-obesidade
-entre 30 e 34.9 = Obesidade classe I
-entre 35 e 39.9 = Obesidade severa
-maior que 39.9 = Obesidade móbida
+entre 18.5 e 24.4 = Peso ideal;
+entre 24.5 e 29.9 = Pré-obesidade;
+entre 30 e 34.9 = Obesidade classe I;
+entre 35 e 39.9 = Obesidade severa;
+maior que 39.9 = Obesidade móbida;
 
-P1 - Fornece seu peso
-P2 - Fornece sua altura
+P1 - Fornece seu peso;
+P2 - Fornece sua altura;
 
