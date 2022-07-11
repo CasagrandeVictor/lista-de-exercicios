@@ -33,3 +33,11 @@ valor a ser pago ao funcionário seja inferior a R$ 50,00: "Atenção, dirija-se
 quilos para libras e vice-versa. (Dica: use um caractere indicando a ordem da conversão,
 exemplo "java q 1000" seria o comando para converter 1000 quilos para libra, e "java l 1000"
 seria o comando para converter 1000 libras para quilo)
+
+9. mucilon 
+    "0 a 2 é bebê";
+    "3 a 11 é criança";
+    "12 a 19 é adolescente";
+    "20 a 30 é jovem";
+    "31 a 60 é adulto";
+    "+60 é Idoso";
